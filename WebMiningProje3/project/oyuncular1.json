@@ -1,0 +1,2873 @@
+[
+
+    {
+
+        "oyuncu_ismi": "Peter Dinklage", 
+
+        "rol": "Tyrion Lannister", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Kit Harington", 
+
+        "rol": "Jon Snow", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Lena Headey", 
+
+        "rol": "Cersei Lannister", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Maisie Williams", 
+
+        "rol": "Arya Stark", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Emilia Clarke", 
+
+        "rol": "Daenerys Targaryen", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Michelle Fairley", 
+
+        "rol": "Catelyn Stark", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Sophie Turner", 
+
+        "rol": "Sansa Stark", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Iain Glen", 
+
+        "rol": "Jorah Mormont", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Alfie Allen", 
+
+        "rol": "Theon Greyjoy", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jack Gleeson", 
+
+        "rol": "Joffrey Baratheon", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Natalie Dormer", 
+
+        "rol": "Margaery Tyrell", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Richard Madden", 
+
+        "rol": "Robb Stark", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Isaac Hempstead-Wright", 
+
+        "rol": "Bran Stark", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Rory McCann", 
+
+        "rol": "Sandor \"The Hound\" Clegane", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Nikolaj Coster Waldau", 
+
+        "rol": "Jaime Lannister", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Aidan Gillen", 
+
+        "rol": "Petyr \"Littlefinger\" Baelish", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Charles Dance", 
+
+        "rol": "Tywin Lannister", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "John Bradley", 
+
+        "rol": "Samwell Tarly", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Conleth Hill", 
+
+        "rol": "Lord Varys", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jerome Flynn", 
+
+        "rol": "Bronn", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Joseph Dempsie", 
+
+        "rol": "Gendry", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Kristian Nairn", 
+
+        "rol": "Hodor", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Sibel Kekilli", 
+
+        "rol": "Shae", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Julian Glover", 
+
+        "rol": "Grand Maester Pycelle", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Mark Stanley", 
+
+        "rol": "Grenn", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Donald Sumpter", 
+
+        "rol": "Maester Luwin", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Ian McElhinney", 
+
+        "rol": "Barristan Selmy", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Carice van Houten", 
+
+        "rol": "Melisandre", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Gwendoline Christie", 
+
+        "rol": "Brienne of Tarth", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Hannah Murray", 
+
+        "rol": "Gilly", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Natalia Tena", 
+
+        "rol": "Osha", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Esmé Bianco", 
+
+        "rol": "Ros", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Ron Donachie", 
+
+        "rol": "Rodrik Cassel", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Amrita Acharia", 
+
+        "rol": "Irri", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Stephen Dillane", 
+
+        "rol": "Stannis Baratheon", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "James Cosmo", 
+
+        "rol": "Jeor Mormont", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Rose Leslie", 
+
+        "rol": "Ygritte", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Liam Cunningham", 
+
+        "rol": "Davos Seaworth", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Finn Jones", 
+
+        "rol": "Loras Tyrell", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Art Parkinson", 
+
+        "rol": "Rickon Stark", 
+
+        "title": "Game of Thrones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Stephen Amell", 
+
+        "rol": "Oliver Queen/Green Arrow", 
+
+        "title": "Arrow"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Katie Cassidy", 
+
+        "rol": "Laurel Lance", 
+
+        "title": "Arrow"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "David Ramsey", 
+
+        "rol": "John Diggle", 
+
+        "title": "Arrow"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Emily Bett Rickards", 
+
+        "rol": "Felicity Smoak", 
+
+        "title": "Arrow"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Willa Holland", 
+
+        "rol": "Thea Queen", 
+
+        "title": "Arrow"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Colton Haynes", 
+
+        "rol": "Roy Harper", 
+
+        "title": "Arrow"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Paul Blackthorne", 
+
+        "rol": "Detective Quentin Lance", 
+
+        "title": "Arrow"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "John Barrowman", 
+
+        "rol": "Malcolm Merlyn", 
+
+        "title": "Arrow"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Colin Donnell", 
+
+        "rol": "Tommy Merlyn", 
+
+        "title": "Arrow"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Manu Bennett", 
+
+        "rol": "Slade Wilson", 
+
+        "title": "Arrow"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Susanna Thompson", 
+
+        "rol": "Moira Queen", 
+
+        "title": "Arrow"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Clark Gregg", 
+
+        "rol": "Phil Coulson", 
+
+        "title": "Marvel's Agents of S.H.I.E.L.D."
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Ming-Na", 
+
+        "rol": "Melinda May", 
+
+        "title": "Marvel's Agents of S.H.I.E.L.D."
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Brett Dalton", 
+
+        "rol": "Grant Ward", 
+
+        "title": "Marvel's Agents of S.H.I.E.L.D."
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Chloe Bennet", 
+
+        "rol": "Skye", 
+
+        "title": "Marvel's Agents of S.H.I.E.L.D."
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Iain De Caestecker", 
+
+        "rol": "Leo Fitz", 
+
+        "title": "Marvel's Agents of S.H.I.E.L.D."
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Elizabeth Henstridge", 
+
+        "rol": "Jemma Simmons", 
+
+        "title": "Marvel's Agents of S.H.I.E.L.D."
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Nick Blood", 
+
+        "rol": "Lance Hunter", 
+
+        "title": "Marvel's Agents of S.H.I.E.L.D."
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Adrianne Palicki", 
+
+        "rol": "Bobby Morse", 
+
+        "title": "Marvel's Agents of S.H.I.E.L.D."
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Ellen Pompeo", 
+
+        "rol": "Dr. Meredith Grey", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jessica Capshaw", 
+
+        "rol": "Dr. Arizona Robbins (season 6+, recurring previously)", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Patrick Dempsey", 
+
+        "rol": "Dr. Derek Shepherd", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Sandra Oh", 
+
+        "rol": "Dr. Cristina Yang", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Chandra Wilson", 
+
+        "rol": "Dr. Miranda Bailey", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Eric Dane", 
+
+        "rol": "Dr. Mark Sloan (episodes 40-174, recurring previously)", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "James Pickens Jr.", 
+
+        "rol": "Dr. Richard Webber", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Sara Ramirez", 
+
+        "rol": "Dr. Callie Torres (season 3+, recurring previously)", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Justin Chambers", 
+
+        "rol": "Dr. Alex Karev", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Chyler Leigh", 
+
+        "rol": "Dr. Lexie Grey (season 4-8, recurring previously)", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Kevin McKidd", 
+
+        "rol": "Dr. Owen Hunt (episode 92+, recurring previously)", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jesse Williams (II)", 
+
+        "rol": "Dr. Jackson Avery (season 7+, recurring previously)", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Sarah Drew", 
+
+        "rol": "Dr. April Kepner (season 7+, recurring previously)", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Brooke Smith", 
+
+        "rol": "Dr. Erica Hahn (episode 67-85, recurring previously)", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Isaiah Washington", 
+
+        "rol": "Dr. Preston Burke (season 1-3)", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Kate Walsh", 
+
+        "rol": "Dr. Addison Montgomery (episode 16-61, recurring otherwise)", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Kim Raver", 
+
+        "rol": "Dr. Teddy Altman (episodes 121-172, recurring previously)", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Katherine Heigl", 
+
+        "rol": "Dr. Izzie Stevens (episodes 1-114)", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "T.R. Knight", 
+
+        "rol": "Dr. George O'Malley (season 1-5)", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jerrika D Hinton", 
+
+        "rol": "Dr. Stephanie Edwards (Season 10+)", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Caterina Scorsone", 
+
+        "rol": "Dr. Amelia Shepherd", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Tessa Ferrer", 
+
+        "rol": "Dr. Leah Murphy (Season 10+)", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Camilla Luddington", 
+
+        "rol": "Dr. Jo Wilson (Season 10+)", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Gaius Charles", 
+
+        "rol": "Dr. Shane Ross (Season 10+)", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Philip A. Butt", 
+
+        "rol": "Harry Petter", 
+
+        "title": "Grey's Anatomy"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "William Roache", 
+
+        "rol": "Ken Barlow (1960 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Philip Lowrie", 
+
+        "rol": "Dennis Tanner (1960 - 1968; 2011 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Eileen Derbyshire", 
+
+        "rol": "Emily Nugent Swain Bishop (1961 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Betty Driver", 
+
+        "rol": "Betty Turpin Williams (1969 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Barbara Knox", 
+
+        "rol": "Rita Littlewood Fairclough Sullivan (1972 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Anne Kirkbride", 
+
+        "rol": "Deirdre Hunt Langton Rachid Barlow (1972 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Helen Worth", 
+
+        "rol": "Gail Potter Tilsley Platt Hillman McIntyre (1974 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Sue Nicholls", 
+
+        "rol": "Audrey Potter Roberts (1979 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Michael Le Vell", 
+
+        "rol": "Kevin Webster (1983 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Peter Armitage", 
+
+        "rol": "Bill Webster (1984 - 1985; 1995 - 1997; 2006 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Sally Dynevor", 
+
+        "rol": "Sally Seddon Webster (1986- )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Simon Gregson", 
+
+        "rol": "Steve McDonald (1989 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Malcolm Hebden", 
+
+        "rol": "Norris Cole (1994 - 1997; 1999 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "David Neilson", 
+
+        "rol": "Roy Cropper (1995 -)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jane Danson", 
+
+        "rol": "Leanne Battersby Tilsley Barlow (1997 - 2000; 2004 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Julie Hesmondhalgh", 
+
+        "rol": "Hayley Patterson Cropper (1998 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Alan Halsall", 
+
+        "rol": "Tyrone Dobbs (1998 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jimmi Harkishin", 
+
+        "rol": "Dev Alahan (1999 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Helen Flanagan", 
+
+        "rol": "Rosie Webster #2 (2000 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jack P Shepherd", 
+
+        "rol": "David Platt #2 (2000 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Sue Cleaver", 
+
+        "rol": "Eileen Grimshaw (2000 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Samia Smith", 
+
+        "rol": "Maria Sutherland Connor (2000 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Andrew Whyment", 
+
+        "rol": "Kirk Sutherland (2000 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Chris Gascoyne", 
+
+        "rol": "Peter Barlow #7 (2000 - 2003; 2008; 2009 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Ryan Thomas", 
+
+        "rol": "Jason Grimshaw (2000 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jennie McAlpine", 
+
+        "rol": "Fiz Brown Stape (2001 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Shobna Gulati", 
+
+        "rol": "Sunita Parekh Alahan (2001 - 2006; 2009 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Keith Duffy", 
+
+        "rol": "Ciaran McCarthy (2002 - 2005; 2010 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Kate Ford", 
+
+        "rol": "Tracy Preston Cropper Barlow #4 (2002-)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Julia Haworth", 
+
+        "rol": "Claire Casey Peacock (2003 - 2011)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Samuel Aston", 
+
+        "rol": "Chesney Battersby-Brown (2003 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Antony Cotton", 
+
+        "rol": "Sean Tully (2004 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Brooke Vincent", 
+
+        "rol": "Sophie Webster #3 (2004 -)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Craig Charles", 
+
+        "rol": "Lloyd Mullaney (2005 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Kym Ryder", 
+
+        "rol": "Michelle Connor (2006 - )", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Noël Dyson", 
+
+        "rol": "Ida Barlow (1960-1961)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Christine Hargreaves", 
+
+        "rol": "Christine Hardman Appleby (1960-1963)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Lynne Carol", 
+
+        "rol": "Martha Longhurst (1960-1964)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Arthur Lowe", 
+
+        "rol": "Leonard Swindley (1960-1965)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Betty Alberge", 
+
+        "rol": "Florrie Lindley (1960 - 1965)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Ernst Walder", 
+
+        "rol": "Ivan Cheveski (1960 - 1966)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Ivan Beavis", 
+
+        "rol": "Harry Hewitt (1960 - 1967)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Arthur Leslie", 
+
+        "rol": "Jack Walker (1960-1970)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Frank Pemberton", 
+
+        "rol": "Frank Barlow (1960 - 1964; 1971)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Daphne Oxenford", 
+
+        "rol": "Esther Hayes (1960 - 1972)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Doreen Keogh", 
+
+        "rol": "Concepta Riley Hewitt Regan (1960 - 1975)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Margot Bryant", 
+
+        "rol": "Minnie Caldwell (1960-1976)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Violet Carson", 
+
+        "rol": "Ena Sharples (1960-1980)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Patricia Phoenix", 
+
+        "rol": "Elsie Tanner Howard (1960 - 1973; 1976 - 1984)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Anne Cunningham", 
+
+        "rol": "Linda Tanner Cheveski (1960-1984)", 
+
+        "title": "Coronation Street"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Candice Accola", 
+
+        "rol": "Caroline Forbes", 
+
+        "title": "The Vampire Diaries"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Sara Canning", 
+
+        "rol": "Jenna Sommers", 
+
+        "title": "The Vampire Diaries"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Nina Dobrev", 
+
+        "rol": "Elena Gilbert/Katherine Pierce", 
+
+        "title": "The Vampire Diaries"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Katerina Graham", 
+
+        "rol": "Bonnie Bennett", 
+
+        "title": "The Vampire Diaries"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Steven R. McQueen", 
+
+        "rol": "Jeremy Gilbert", 
+
+        "title": "The Vampire Diaries"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Zach Roerig", 
+
+        "rol": "Matt Donovan", 
+
+        "title": "The Vampire Diaries"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Ian Somerhalder", 
+
+        "rol": "Damon Salvatore", 
+
+        "title": "The Vampire Diaries"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Michael Trevino", 
+
+        "rol": "Tyler Lockwood", 
+
+        "title": "The Vampire Diaries"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Paul Wesley", 
+
+        "rol": "Stefan Salvatore", 
+
+        "title": "The Vampire Diaries"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Michael Malarkey", 
+
+        "rol": "Enzo", 
+
+        "title": "The Vampire Diaries"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Joseph Morgan", 
+
+        "rol": "Klaus Mikaelson", 
+
+        "title": "The Vampire Diaries"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Matthew Davis", 
+
+        "rol": "Alaric Saltzman", 
+
+        "title": "The Vampire Diaries"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Kayla Ewell", 
+
+        "rol": "Vicki Donovan", 
+
+        "title": "The Vampire Diaries"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Johnny Galecki", 
+
+        "rol": "Leonard Hofstadter", 
+
+        "title": "The Big Bang Theory"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jim Parsons", 
+
+        "rol": "Sheldon Cooper", 
+
+        "title": "The Big Bang Theory"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Kaley Cuoco", 
+
+        "rol": "Penny", 
+
+        "title": "The Big Bang Theory"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Simon Helberg", 
+
+        "rol": "Howard Wolowitz", 
+
+        "title": "The Big Bang Theory"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Kunal Nayyar", 
+
+        "rol": "Rajesh Koothrappali", 
+
+        "title": "The Big Bang Theory"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Melissa Rauch", 
+
+        "rol": "Bernadette Rostenkowski", 
+
+        "title": "The Big Bang Theory"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Mayim Bialik", 
+
+        "rol": "Amy Farrah Fowler", 
+
+        "title": "The Big Bang Theory"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jared Padalecki", 
+
+        "rol": "Sam Winchester", 
+
+        "title": "Supernatural"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jensen Ackles", 
+
+        "rol": "Dean Winchester", 
+
+        "title": "Supernatural"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Misha Collins", 
+
+        "rol": "Castiel", 
+
+        "title": "Supernatural"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Mark Sheppard", 
+
+        "rol": "Crowley", 
+
+        "title": "Supernatural"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Katie Cassidy", 
+
+        "rol": "Ruby", 
+
+        "title": "Supernatural"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Lauren Cohan", 
+
+        "rol": "Bela Talbot", 
+
+        "title": "Supernatural"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Josh Radnor", 
+
+        "rol": "Ted Mosby", 
+
+        "title": "How I Met Your Mother"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Neil Patrick Harris", 
+
+        "rol": "Barney Stinson", 
+
+        "title": "How I Met Your Mother"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jason Segel", 
+
+        "rol": "Marshall Eriksen", 
+
+        "title": "How I Met Your Mother"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Alyson Hannigan", 
+
+        "rol": "Lily Aldrin", 
+
+        "title": "How I Met Your Mother"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "David Henrie", 
+
+        "rol": "Son", 
+
+        "title": "How I Met Your Mother"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Cobie Smulders", 
+
+        "rol": "Robin Scherbatsky", 
+
+        "title": "How I Met Your Mother"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Lyndsy Fonseca", 
+
+        "rol": "Daughter", 
+
+        "title": "How I Met Your Mother"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Marshall Manesh", 
+
+        "rol": "Ranjit", 
+
+        "title": "How I Met Your Mother"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Bob Saget", 
+
+        "rol": "Star", 
+
+        "title": "How I Met Your Mother"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Ginnifer Goodwin", 
+
+        "rol": "Snow White/Mary Margaret Blanchard", 
+
+        "title": "Once Upon a Time"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jennifer Morrison", 
+
+        "rol": "Emma Swan", 
+
+        "title": "Once Upon a Time"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Lana Parrilla", 
+
+        "rol": "Evil Queen/Regina Mills", 
+
+        "title": "Once Upon a Time"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Josh Dallas", 
+
+        "rol": "Prince Charming/David Nolan", 
+
+        "title": "Once Upon a Time"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Emilie de Ravin", 
+
+        "rol": "Belle", 
+
+        "title": "Once Upon a Time"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Colin O'Donoghue", 
+
+        "rol": "Captain Hook", 
+
+        "title": "Once Upon a Time"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Michael Socha", 
+
+        "rol": "Knave of Hearts", 
+
+        "title": "Once Upon a Time"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jared Gilmore", 
+
+        "rol": "Henry Mills", 
+
+        "title": "Once Upon a Time"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Robert Carlyle", 
+
+        "rol": "Rumplestiltskin/Mr. Gold", 
+
+        "title": "Once Upon a Time"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Michael Raymond-James", 
+
+        "rol": "Neal Cassidy", 
+
+        "title": "Once Upon a Time"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Eion Bailey", 
+
+        "rol": "August Booth/Pinocchio", 
+
+        "title": "Once Upon a Time"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Meghan Ory", 
+
+        "rol": "Ruby/Red Riding Hood", 
+
+        "title": "Once Upon a Time"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Raphael Sbarge", 
+
+        "rol": "Jiminy Cricket/Dr. Archie Hopper", 
+
+        "title": "Once Upon a Time"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jamie Dornan", 
+
+        "rol": "Sheriff Graham", 
+
+        "title": "Once Upon a Time"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Joe Mantegna", 
+
+        "rol": "Senior SSA David Rossi", 
+
+        "title": "Criminal Minds"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Thomas Gibson", 
+
+        "rol": "Unit Chief Aaron Hotchner", 
+
+        "title": "Criminal Minds"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jennifer Love Hewitt", 
+
+        "rol": "SSA Kate Callahan", 
+
+        "title": "Criminal Minds"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Shemar Moore", 
+
+        "rol": "SSA Derek Morgan", 
+
+        "title": "Criminal Minds"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Matthew Gray Gubler", 
+
+        "rol": "SSA Dr. Spencer Reid", 
+
+        "title": "Criminal Minds"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "A.J. Cook", 
+
+        "rol": "SSA Jennifer \"JJ\" Jareau", 
+
+        "title": "Criminal Minds"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Kirsten Vangsness", 
+
+        "rol": "Analyst Penelope Garcia", 
+
+        "title": "Criminal Minds"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Mandy Patinkin", 
+
+        "rol": "Senior SSA Jason Gideon", 
+
+        "title": "Criminal Minds"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jeanne Tripplehorn", 
+
+        "rol": "SSA Alex Blake", 
+
+        "title": "Criminal Minds"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Paget Brewster", 
+
+        "rol": "SSA Emily Prentiss", 
+
+        "title": "Criminal Minds"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Lola Glaudini", 
+
+        "rol": "SSA Elle Greenaway", 
+
+        "title": "Criminal Minds"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Rachel Nichols", 
+
+        "rol": "FBI Cadet Ashley Seaver", 
+
+        "title": "Criminal Minds"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Ron Pearlman", 
+
+        "rol": "Luther Braxton", 
+
+        "title": "The Blacklist"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "James Spader", 
+
+        "rol": "Raymond \"Red\" Reddington", 
+
+        "title": "The Blacklist"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Parminder Nagra", 
+
+        "rol": "Margot Malik (Season 1)", 
+
+        "title": "The Blacklist"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Diego Klattenhoff", 
+
+        "rol": "Donald Ressler", 
+
+        "title": "The Blacklist"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Megan Boone", 
+
+        "rol": "Elizabeth Keen", 
+
+        "title": "The Blacklist"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Harry J. Lennix", 
+
+        "rol": "Harold Cooper", 
+
+        "title": "The Blacklist"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Ryan Eggold", 
+
+        "rol": "Tom Keen", 
+
+        "title": "The Blacklist"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Ilfenesh Hadera", 
+
+        "rol": "Jennifer Palmer", 
+
+        "title": "The Blacklist"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Henry Ian Cusick", 
+
+        "rol": "Councilman Marcus Kane", 
+
+        "title": "The 100"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Eliza Taylor", 
+
+        "rol": "Clarke Griffin", 
+
+        "title": "The 100"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Paige Turco", 
+
+        "rol": "Councilwoman Dr. Abigail \"Abby\" Griffin", 
+
+        "title": "The 100"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Bob Morley", 
+
+        "rol": "Bellamy Blake", 
+
+        "title": "The 100"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Thomas McDonell", 
+
+        "rol": "Finn Collins", 
+
+        "title": "The 100"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Christopher Larkin", 
+
+        "rol": "Monty Green", 
+
+        "title": "The 100"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Devon Bostick", 
+
+        "rol": "Jasper Jordan", 
+
+        "title": "The 100"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Ricky Whittle", 
+
+        "rol": "Lincoln", 
+
+        "title": "The 100"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Lindsey Morgan", 
+
+        "rol": "Raven Reyes", 
+
+        "title": "The 100"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Marie Avgeropoulos", 
+
+        "rol": "Octavia Blake", 
+
+        "title": "The 100"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Simon Baker", 
+
+        "rol": "Patrick Jane", 
+
+        "title": "The Mentalist"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Robin Tunney", 
+
+        "rol": "Teresa Lisbon", 
+
+        "title": "The Mentalist"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Tim Kang", 
+
+        "rol": "Kimball Cho", 
+
+        "title": "The Mentalist"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Owain Yeoman", 
+
+        "rol": "Wayne Rigsby", 
+
+        "title": "The Mentalist"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Amanda Righetti", 
+
+        "rol": "Grace Van Pelt", 
+
+        "title": "The Mentalist"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Rockmond Dunbar", 
+
+        "rol": "FBI Agent Dennis Abbott", 
+
+        "title": "The Mentalist"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Josie Loren", 
+
+        "rol": "Michelle Vega", 
+
+        "title": "The Mentalist"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Joe Adler", 
+
+        "rol": "Jason Wylie", 
+
+        "title": "The Mentalist"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Emily Swallow", 
+
+        "rol": "Kim Fischer", 
+
+        "title": "The Mentalist"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Matt Czuchry", 
+
+        "rol": "Cary Agos", 
+
+        "title": "The Good Wife"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Archie Panjabi", 
+
+        "rol": "Kalinda Sharma", 
+
+        "title": "The Good Wife"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Julianna Margulies", 
+
+        "rol": "Alicia Florrick", 
+
+        "title": "The Good Wife"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Alan Cumming", 
+
+        "rol": "Eli Gold", 
+
+        "title": "The Good Wife"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Josh Charles", 
+
+        "rol": "Will Gardner", 
+
+        "title": "The Good Wife"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Chris Noth", 
+
+        "rol": "Peter Florrick", 
+
+        "title": "The Good Wife"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Zach Grenier", 
+
+        "rol": "David Lee (Season 5+)", 
+
+        "title": "The Good Wife"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Christine Baranski", 
+
+        "rol": "Diane Lockhart", 
+
+        "title": "The Good Wife"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Makenzie Vega", 
+
+        "rol": "Grace Florrick", 
+
+        "title": "The Good Wife"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Graham Phillips", 
+
+        "rol": "Zach Florrick", 
+
+        "title": "The Good Wife"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Fitzhurgh J. Houston", 
+
+        "rol": "Star", 
+
+        "title": "The Good Wife"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Mark Harmon", 
+
+        "rol": "Special Agent Leroy Jethro Gibbs", 
+
+        "title": "NCIS"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Michael Weatherly", 
+
+        "rol": "Special Agent Tony DiNozzo", 
+
+        "title": "NCIS"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Pauley Perrette", 
+
+        "rol": "Forensics Specialist Abby Sciuto", 
+
+        "title": "NCIS"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "David McCallum", 
+
+        "rol": "Chief M.E. Donald \"Ducky\" Mallard", 
+
+        "title": "NCIS"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Sean Murray (I)", 
+
+        "rol": "Special Agent Tim McGee (Season 2+, recurring in Season 1)", 
+
+        "title": "NCIS"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Brian Dietzen", 
+
+        "rol": "Asst. M.E. Jimmy Palmer (Season 10+, recurring Seasons 1-9)", 
+
+        "title": "NCIS"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Rocky Carroll", 
+
+        "rol": "Director Leon Vance (Season 6+, recurring in Season 5)", 
+
+        "title": "NCIS"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Emily Wickersham", 
+
+        "rol": "Agent Ellie Bishop (Episode 246+, guest in Episodes 243-245)", 
+
+        "title": "NCIS"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Cote de Pablo", 
+
+        "rol": "Special Agent Ziva David (Episodes 50-236, guest in Episodes 47-48)", 
+
+        "title": "NCIS"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Sasha Alexander", 
+
+        "rol": "Special Agent Kate Todd (Seasons 1-2, guest in Season 3 and 8)", 
+
+        "title": "NCIS"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Lauren Holly", 
+
+        "rol": "Director Jenny Shepard (Episodes 55-113, recurring Episodes 47-54)", 
+
+        "title": "NCIS"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Travis Fimmel", 
+
+        "rol": "Ragnar Lothbrok", 
+
+        "title": "Vikings"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Gabriel Byrne", 
+
+        "rol": "Earl Haraldson", 
+
+        "title": "Vikings"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Katheryn Winnick", 
+
+        "rol": "Lagertha", 
+
+        "title": "Vikings"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Clive Standen", 
+
+        "rol": "Rollo", 
+
+        "title": "Vikings"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jessalyn Gilsig", 
+
+        "rol": "Siggy", 
+
+        "title": "Vikings"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Gustaf Skarsgård", 
+
+        "rol": "Floki", 
+
+        "title": "Vikings"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "George Blagden", 
+
+        "rol": "Athelstan", 
+
+        "title": "Vikings"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Donal Logue", 
+
+        "rol": "King Horik", 
+
+        "title": "Vikings"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Alyssa Sutherland", 
+
+        "rol": "Aslaug", 
+
+        "title": "Vikings"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Linus Roache", 
+
+        "rol": "Ecbert, King of Wessex", 
+
+        "title": "Vikings"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Alexander Ludwig", 
+
+        "rol": "Bjorn", 
+
+        "title": "Vikings"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Nathan Fillion", 
+
+        "rol": "Richard Castle", 
+
+        "title": "Castle"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Stana Katic", 
+
+        "rol": "Det. Kate Beckett", 
+
+        "title": "Castle"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Susan Sullivan", 
+
+        "rol": "Martha Rodgers", 
+
+        "title": "Castle"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Seamus Dever", 
+
+        "rol": "Kevin Ryan", 
+
+        "title": "Castle"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jon Huertas", 
+
+        "rol": "Javier Esposito", 
+
+        "title": "Castle"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Tamala Jones", 
+
+        "rol": "Lanie Parish", 
+
+        "title": "Castle"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Molly Quinn", 
+
+        "rol": "Alexis Castle", 
+
+        "title": "Castle"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Penny Johnson Jerald", 
+
+        "rol": "Captain Victoria Gates", 
+
+        "title": "Castle"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Ruben Santiago-Hudson", 
+
+        "rol": "Captain Roy Montgomery", 
+
+        "title": "Castle"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Emily VanCamp", 
+
+        "rol": "Emily Thorne/Amanda Clarke", 
+
+        "title": "Revenge"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Madeleine Stowe", 
+
+        "rol": "Victoria Grayson", 
+
+        "title": "Revenge"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Gabriel Mann", 
+
+        "rol": "Nolan Ross", 
+
+        "title": "Revenge"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Josh Bowman", 
+
+        "rol": "Daniel Grayson", 
+
+        "title": "Revenge"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Nick Wechsler", 
+
+        "rol": "Jack Porter", 
+
+        "title": "Revenge"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Ashley Madekwe", 
+
+        "rol": "Ashley Davenport", 
+
+        "title": "Revenge"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Christa B. Allen", 
+
+        "rol": "Charlotte Grayson", 
+
+        "title": "Revenge"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Connor Paolo", 
+
+        "rol": "Declan Porter", 
+
+        "title": "Revenge"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Henry Czerny", 
+
+        "rol": "Conrad Grayson", 
+
+        "title": "Revenge"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Justin Hartley", 
+
+        "rol": "Star", 
+
+        "title": "Revenge"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "James Tupper", 
+
+        "rol": "Star", 
+
+        "title": "Revenge"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Barry Sloane", 
+
+        "rol": "Star", 
+
+        "title": "Revenge"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Gail O'Grady", 
+
+        "rol": "Star", 
+
+        "title": "Revenge"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Bob Bendetson", 
+
+        "rol": "Star", 
+
+        "title": "Revenge"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "David Boreanaz", 
+
+        "rol": "Special Agent Seeley Booth", 
+
+        "title": "Bones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Emily Deschanel", 
+
+        "rol": "Dr. Temperance Brennan", 
+
+        "title": "Bones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Michaela Conlin", 
+
+        "rol": "Angela Montenegro", 
+
+        "title": "Bones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Tamara Taylor", 
+
+        "rol": "Dr. Camille Saroyan", 
+
+        "title": "Bones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "T.J. Thyne", 
+
+        "rol": "Dr. Jack Hodgins", 
+
+        "title": "Bones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "John Francis Daley", 
+
+        "rol": "Dr. Lance Sweets", 
+
+        "title": "Bones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Eric Millegan", 
+
+        "rol": "Zack Addy", 
+
+        "title": "Bones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "Jonathan Adams", 
+
+        "rol": "Dr. Daniel Goodman", 
+
+        "title": "Bones"
+
+    }, 
+
+    {
+
+        "oyuncu_ismi": "John Boyd", 
+
+        "rol": "Special Agent James Aubrey", 
+
+        "title": "Bones"
+
+    }
+
+]

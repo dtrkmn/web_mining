@@ -1,0 +1,5 @@
+TOP TEN SERİES 
+<div id="chart3" style="min-width: 310px; max-width: 800px; height: 600px; margin: 0 auto"></div>
+ <script src="/static/js/ajax.js">
+ </script>
+  

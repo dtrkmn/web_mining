@@ -1,0 +1,156 @@
+body {
+	margin: 0 0 20px;
+	padding: 0;
+	background-image: url(image/diziler.jpg);	
+	
+}
+
+p { 
+	margin: 0 0 10px 0; 
+	padding: 0; 
+}
+
+img { 
+	border: none; 
+}
+
+
+
+h1,h2{ 
+	color:#black; 
+	font-weight: normal; 
+}
+
+h1 { 
+	font-size: 34px; 
+	margin: 0 0 20px; 
+	padding: 5px 0 
+}
+
+h2 { 
+	font-family: 'times new roman', times, serif;
+	font-size: 50px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	letter-spacing: 8.2pt;
+	word-spacing: 7.4pt;
+	line-height: 1.4;
+    margin: 0 0 15px; 
+	padding: 5px 0; 
+}
+
+
+ol { padding: 0px; margin: 0px; list-style: decimal-leading-zero inside; color: #ccc; width: 460px; border-top: 1px solid #ccc; font-size: 0.9em; }
+
+
+
+.cleaner { 
+	clear: both 
+}
+
+
+#templatemo_wrapper {
+	width: 960px;
+	margin: 0 auto;
+	padding: 0 10px;
+	background:white top center; 
+	
+
+}
+
+#templatemo_header {
+	clear: both;
+	width: 960px;
+	height: 286px;
+	margin-bottom: 40px;
+	background: url(image/resim.jpg) top center no-repeat;
+}
+
+
+
+
+
+/* menu */
+
+#templatemo_menu {
+	float: right;
+	width: 600px;
+	height: 47px;
+	
+}
+
+#templatemo_menu ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+
+#templatemo_menu ul li {
+	padding: 0;
+	margin: 0;
+	display: inline;
+}
+
+
+
+#templatemo_menu ul li a {
+	float: left;
+	display: block;
+	width: 108px;
+	height: 80px;
+	padding: 20px 0 0;
+	font-size: 20px;
+	color: white;	
+	text-shadow: 1px 1px 1px #fff; 
+	text-align: right;
+	text-decoration: underline;
+	font-weight: 800;
+	outline: none;
+	border: none;
+}
+
+#templatemo_menu ul li a:hover, #templatemo_menu ul .current {
+	color: black;
+	height: 35px;
+	padding-top: 12px;
+	/* text-shadow: 1px 1px 1px #000; */
+
+}
+
+
+
+
+
+#templatemo_middle { 
+	clear: both;
+	width: 880px; 
+	padding: 0 40px 40px;
+	margin-bottom: 5px;
+	
+}
+     /* MAÝN */
+
+ #templatemo_main {
+	clear: both;
+	width: 960px;
+	overflow: hidden;
+	padding-bottom: 40px;
+}
+
+#page {
+	overflow: hidden;
+	width: 1000px;
+	margin: 0px auto;
+	padding: 70px 50px 30px 50px;
+	background:#black;
+}
+
+    
+
+
+
+
+
+
+
